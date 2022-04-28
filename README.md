@@ -4,16 +4,16 @@
 ## Clonando projeto de *torneseumprogramador*
 git clone https://github.com/torneseumprogramador/java_aws_ses_sender.git
 
-# Criando projeto
+## Criando projeto
 mvn archetype:generate -DgroupId=br.com.ses_sender -DartifactId=ses_sender -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
 
-# Doc MVN
+## Doc MVN
 https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
 
 ### Gerar com manifest
 https://www.sohamkamani.com/java/cli-app-with-maven/
 
-# Exemplo de Code Base
+## Exemplo de Code Base
 https://github.com/awsdocs/aws-doc-sdk-examples/tree/main/javav2
 
 ### MVN Options
