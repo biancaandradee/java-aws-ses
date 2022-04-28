@@ -2,7 +2,7 @@
 - É um serviço em nuvem de e-mail eficaz, flexível e dimensionável. Com ele, os desenvolvedores podem enviar e-mails de qualquer aplicação. É possível configurar rapidamente a compatibilidade do Amazon SES com vários casos de uso de e-mails, como comunicações transacionais, de marketing ou de e-mails em massa. As opções flexíveis de implantação por IP e autenticação por e-mail do Amazon SES ajudam a aumentar a capacidade de entrega e a proteger a reputação do remetente, enquanto a análise do envio mede o impacto de cada e-mail. 
 
 ## Clonando projeto de *torneseumprogramador*
-git clone https://github.com/torneseumprogramador/java_aws_sqs_producer_sender.git
+git clone https://github.com/torneseumprogramador/java_aws_ses_sender.git
 
 # Criando projeto
 mvn archetype:generate -DgroupId=br.com.ses_sender -DartifactId=ses_sender -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
